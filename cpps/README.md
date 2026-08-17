@@ -52,7 +52,7 @@ You can access individually the last version of  each Core Preservation Process 
 
 Do you have feedback or questions?  EOSC EDEN warmly welcomes your thoughts on the CPPs. Please engage in the discussion through our Github repository:
 
-* ***https://github.com/EOSC-EDEN/wp1-cpp-descriptions***
+* ***[https://github.com/EOSC-EDEN/wp1-cpp-descriptions](https://github.com/EOSC-EDEN/wp1-cpp-descriptions)***
 
 ## Zenodo Publication
 
