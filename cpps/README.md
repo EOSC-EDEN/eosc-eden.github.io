@@ -6,13 +6,13 @@ A Core Preservation Process (CPP) is a specific action that every Trustworthy Di
 
 The following assertions define the scope of CPPs:
 
-> "They focus on the operational activities required by digital preservation (understood as covering short- to long-term preservation) and do not cover strategic/managerial digital preservation activities nor the whole list of activities of a generic information management system, including  secure IT infrastructures."
+* They focus on the operational activities required by digital preservation (understood as covering short- to long-term preservation) and do not cover strategic/managerial digital preservation activities nor the whole list of activities of a generic information management system, including  secure IT infrastructures.
 
-> "Though digital preservation requires a deep knowledge of the properties, structure and possible uses of digital objects, which can be domain or discipline specific, the scope of CPP is limited to generic processes that take place in general when performing digital preservation regardless of specific content, domain or discipline."     
+* Though digital preservation requires a deep knowledge of the properties, structure and possible uses of digital objects, which can be domain or discipline specific, the scope of CPP is limited to generic processes that take place in general when performing digital preservation regardless of specific content, domain or discipline.
 
-The list of CPPs and their description are established by a group of digital preservation practitioners. In addition, consensus within the digital preservation community about this list will be evidenced by references to prominent maturity models, self-assessment, and certification frameworks used by said community.
+* The list of CPPs and their description are established by a group of digital preservation practitioners. In addition, consensus within the digital preservation community about this list will be evidenced by references to prominent maturity models, self-assessment, and certification frameworks used by said community.
 
-CPPs are described as a sequence of implementable steps, either by humans or by automation.
+* CPPs are described as a sequence of implementable steps, either by humans or by automation.
 
 ## List of Core Preservation Processes
 
