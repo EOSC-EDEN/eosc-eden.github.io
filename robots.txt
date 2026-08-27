@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eosc-eden.github.io/sitemap.xml
